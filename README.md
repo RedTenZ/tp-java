@@ -1,1 +1,1 @@
-TPS java d'info0101.
+TPS java info0101.
